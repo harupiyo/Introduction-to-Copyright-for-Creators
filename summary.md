@@ -1,3 +1,5 @@
+本書は https://github.com/harupiyo/Introduction-to-Copyright-for-Creators/blob/master/README.md の要約です。
+
 # クリエイターのための著作権入門講座
 ## 3 行まとめ - 著作権といえば？
 ```
