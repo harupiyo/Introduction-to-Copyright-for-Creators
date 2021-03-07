@@ -1,3 +1,6 @@
+この講座がYouTube になりました。
+https://www.youtube.com/watch?v=A_09JRDE00Y&list=PLyZRat-0ugZiG8rwHTiwoUCg-LDGfuSi7
+
 # クリエイターのための著作権入門講座
 ## 3 行まとめ - 著作権といえば？
 ```
